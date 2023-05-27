@@ -17,4 +17,4 @@ After we get the features we get a the output as 2D tensors.
 RNN-  the model now uses RNN to process the above tensors and predict the action label.
 
 ## Implementation
-Run the Breed **.ipynb** file. 
+Run the  **ActionsIdentifier.ipynb** file. 
