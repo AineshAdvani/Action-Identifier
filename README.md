@@ -9,7 +9,8 @@ Due to limited computing power I have used a preprocessed dataset of UCF101 whic
 **Credits** - Soomro, K., Zamir, A. R., & Shah, M. (2012). UCF101: A dataset of 101 human actions classes from videos in the wild. arXiv preprint arXiv:1212.0402
 
 ## Description
-I use a combination of CNN(convolutional neural network) and RNN (recurrent neural networks) to recognize the action
+I use a combination of CNN(convolutional neural network) and RNN (recurrent neural networks) to recognize the action.
+
 CNN - the model uses CNN to extract meaningful features from videos frames. For this model I use a pre-trained CNN model. The pre-trained model I use is InceptionV# from keras library of tenserflow.
 
 After we get the features we get a the output as 2D tensors.
